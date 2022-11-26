@@ -59,14 +59,14 @@ class _MyHomePageState extends State<MyHomePage> {
             activeColor: Colors.deepPurple,
           ),
           BottomNavyBarItem(
-              icon: Icon(Icons.music_note),
-              title: Text('Categorias'),
-              activeColor: Colors.blue,
+            icon: Icon(Icons.music_note),
+            title: Text('Categorias'),
+            activeColor: Colors.blue,
           ),
           BottomNavyBarItem(
-              icon: Icon(Icons.person),
-              title: Text('Perfil'),
-              activeColor: Colors.deepPurple,
+            icon: Icon(Icons.person),
+            title: Text('Perfil'),
+            activeColor: Colors.deepPurple,
           ),
           BottomNavyBarItem(
               icon: Icon(Icons.chat),
@@ -78,100 +78,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

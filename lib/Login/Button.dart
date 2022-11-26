@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../Navigation/navigation.dart';
+import '../Activities/Activities';
 
 class Button extends StatelessWidget{
   @override
@@ -28,7 +28,7 @@ class Button extends StatelessWidget{
           onPressed: () {
             Navigator.push(
               context,
-              MaterialPageRoute(builder: (context) => MyHomePage()),
+              MaterialPageRoute(builder: (context) => Activities()),
             );
           },
           child: Text("Ingresar",style: TextStyle(
